@@ -1,0 +1,15 @@
+.image {
+  aspect-ratio: 32/15;
+  width: 75rem;
+  margin: auto;
+  /* margin-bottom: 0; */
+}
+.imageContainer {
+  background-color: #d9d9d9;
+}
+
+@media screen and (max-width: 700px) {
+  /* .image {
+    height: 15rem;
+  } */
+}
